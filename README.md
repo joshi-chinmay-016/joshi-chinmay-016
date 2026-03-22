@@ -52,6 +52,6 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=joshi-chinmay-016&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=joshi-chinmay-016&show_icons=true&theme=tokyonight&v=1)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=joshi-chinmay-016&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=joshi-chinmay-016&theme=tokyonight&v=1)
