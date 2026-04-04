@@ -93,9 +93,11 @@
 
 ## 🐍 Contribution Snake
 
+
 <p align="center">
-  <img src="https://github.com/joshi-chinmay-016/joshi-chinmay-016/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/joshi-chinmay-016/joshi-chinmay-016/output/github-contribution-grid-snake-green.svg" />
 </p>
+
 
 ---
 
