@@ -1,4 +1,3 @@
-```md
 <h1 align="center">⚙️ SYSTEM INITIALIZING...</h1>
 
 <p align="center">
@@ -9,16 +8,15 @@
 
 ## 🧠 System Profile
 
-```
 
-🟢 Status        : Online
-👨‍💻 Name         : Chinmay Joshi
-🎓 Role         : Information Science Student
-⚡ Mode          : Building & Learning
-📍 Location      : Bengaluru, India
-🚀 Mission       : Build scalable real-world systems
 
-```
+🟢 Status : Online
+👨‍💻 Name : Chinmay Joshi
+🎓 Role : Information Science Student
+⚡ Mode : Building & Learning
+📍 Location : Bengaluru, India
+🚀 Mission : Build scalable real-world systems
+
 
 ---
 
@@ -102,4 +100,3 @@
 > "I don’t just write code — I build systems that solve real problems."
 
 ---
-```
