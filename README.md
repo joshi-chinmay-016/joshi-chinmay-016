@@ -1,21 +1,25 @@
 <h1 align="center">⚙️ SYSTEM INITIALIZING...</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Booting+Chinmay.exe...;Backend+Engineer+%7C+FastAPI;AI+%26+ML+Explorer;Building+Scalable+Systems+🚀" />
-</p>
+<p align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=>>+Booting+Chinmay.exe...;>>+Backend+Engineer+%7C+FastAPI;>>+AI+%26+ML+Explorer;>>+Building+Scalable+Systems+🚀" /> 
+</p> <p align="center"> 
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="400"/> </p> 
 
 ---
 
+
 ## 🧠 System Profile
 
+```bash
+[STATUS]     Online
+[NAME]       Chinmay Joshi
+[ROLE]       Information Science Student
+[MODE]       Building & Learning
+[LOCATION]   Bengaluru, India
+[MISSION]    Build scalable real-world systems
+```
 
 
-🟢 Status : Online
-👨‍💻 Name : Chinmay Joshi
-🎓 Role : Information Science Student
-⚡ Mode : Building & Learning
-📍 Location : Bengaluru, India
-🚀 Mission : Build scalable real-world systems
+
 
 
 ---
