@@ -15,8 +15,9 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: joshi-chinmay-016
-          palette: github-dark
           outputs: dist/snake.svg
+          color_snake: "#a855f7"
+          color_dots: "#161B22,#2e1065,#6b21a8,#9333ea,#c084fc"
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
