@@ -85,10 +85,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshi-chinmay-016&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshi-chinmay-016&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=joshi-chinmay-016&show_icons=true&theme=midnight-purple&hide_border=true" height="160" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joshi-chinmay-016&theme=midnight-purple&hide_border=true" height="160" />
 </p>
-
 ---
 
 ## 🐍 Contribution Snake
