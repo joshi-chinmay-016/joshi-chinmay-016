@@ -95,7 +95,7 @@
 
 
 <p align="center"> 
-<img src="https://raw.githubusercontent.com/joshi-chinmay-016/joshi-chinmay-016/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/joshi-chinmay-016/joshi-chinmay-016/output/snake-dark.svg" />
 </p>
 
 
