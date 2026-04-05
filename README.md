@@ -88,12 +88,11 @@
 ## 📊 GitHub Stats
 
 <p align="center"> 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joshi-chinmay-016&show_icons=true&theme=tokyonight&hide_border=true" height="160"/> 
+<img src="https://github-readme-stats-two-sigma-31.vercel.app/api?username=joshi-chinmay-016&show_icons=true&theme=tokyonight&hide_border=true" height="160"/> 
 <img src="https://streak-stats.demolab.com?user=joshi-chinmay-016&theme=tokyonight&hide_border=true" height="160"/> 
 </p> 
 <p align="center"> 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joshi-chinmay-016&layout=compact&theme=tokyonight&hide_border=true" height="160"/> 
-</p>
+<img src="https://github-readme-stats-two-sigma-31.vercel.app/api/top-langs/?username=joshi-chinmay-016&layout=compact&theme=tokyonight&hide_border=true" height="160"/> </p>
 ---
 
 ## 🐍 Contribution Snake
