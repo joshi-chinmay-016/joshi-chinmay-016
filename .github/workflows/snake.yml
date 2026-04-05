@@ -17,7 +17,7 @@ jobs:
           github_user_name: joshi-chinmay-016
           outputs: dist/snake.svg
           color_snake: "#a855f7"
-          color_dots: "#161B22,#2e1065,#6b21a8,#9333ea,#c084fc"
+          color_dots: "#0d1117,#1e1b4b,#4c1d95,#7c3aed,#c084fc"
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
