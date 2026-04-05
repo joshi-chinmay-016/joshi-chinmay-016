@@ -35,14 +35,17 @@
 
 ## 🚀 Featured Projects
 
-🔹 **NeuroDebug**  
-> AI-powered debugging assistant for developers  
+🔹 **Smart Classroom System**  
+> Resource management + interactive learning
 
 🔹 **Multiplayer Tic-Tac-Toe**  
 > Real-time game using WebSockets  
+ 
+🔹 **NeuroDebug**  
+> AI-powered debugging assistant for developers  
 
-🔹 **Smart Classroom System**  
-> Resource management + interactive learning  
+
+
 
 ---
 
@@ -84,10 +87,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=joshi-chinmay-016&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-<img src="https://streak-stats.demolab.com?user=joshi-chinmay-016&theme=tokyonight&hide_border=true" height="160"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshi-chinmay-016&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=joshi-chinmay-016&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/> <img src="https://streak-stats.demolab.com?user=joshi-chinmay-016&theme=tokyonight&hide_border=true" height="160"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshi-chinmay-016&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/> 
 </p>
 ---
 
