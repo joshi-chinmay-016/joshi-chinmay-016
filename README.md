@@ -80,8 +80,27 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
+![SQLite](https://img.shields.io/badge/SQLite-Database-lightgrey)
+![Supabase](https://img.shields.io/badge/Supabase-Backend-green)
+![Firebase](https://img.shields.io/badge/Firebase-Backend-yellow)
+
+### 🛠️ Tools & Development
+![Git](https://img.shields.io/badge/Git-VersionControl-orange)
+![GitHub](https://img.shields.io/badge/GitHub-Repo-black)
+![VS Code](https://img.shields.io/badge/VSCode-Editor-blue)
+![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?logo=postman&logoColor=white)
+
+### 🌐 Deployment
+![Netlify](https://img.shields.io/badge/Netlify-Deploy-00C7B7)
+![Vercel](https://img.shields.io/badge/Vercel-Deploy-black)
+![Render](https://img.shields.io/badge/Render-Deploy-purple)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+
 ### 🔌 Others
 ![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker&logoColor=white)
 
 ---
 
