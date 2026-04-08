@@ -55,9 +55,14 @@
   <a href="https://www.linkedin.com/in/chinmay-joshi-59a840312/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://x.com/joshi_chinmay16">
+  <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
   <a href="mailto:joshichinmay3201@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
+  
 </p>
 
 ---
