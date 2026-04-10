@@ -1,6 +1,6 @@
 <h1 align="center">⚙️ SYSTEM INITIALIZING...</h1>
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=>>+Booting+Chinmay.exe...;>>+Backend+Engineer+%7C+FastAPI;>>+AI+%26+ML+Explorer;>>+Building+Scalable+Systems+🚀" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=>>+Booting+Chinmay.exe...;>>+FullStack+Developer+%7C+FastAPI;>>+AI+%26+ML+Explorer;>>+Building+Scalable+Systems+🚀" /> 
 </p> <p align="center"> 
   
 
