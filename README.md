@@ -67,7 +67,16 @@
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+%7C+Java+%7C+JavaScript+%7C+Docker;MySQL+%7C+Git+%7C+GitHub+%7C+React;FastAPI+%7C+REST+API" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,docker,mysql,git,github,react,fastapi&theme=dark" />
+</p>
+
 
 ### 🧠 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
