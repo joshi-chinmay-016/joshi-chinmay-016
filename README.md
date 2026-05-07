@@ -124,7 +124,6 @@
 ## 🧠 Developer Mindset
 
 > "I don’t just write code — I build systems that solve real problems."
-
 ---
 
 ## 🌐 Connect With Me
