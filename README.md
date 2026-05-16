@@ -110,6 +110,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joshi-chinmay-016&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true" width="95%"/> 
+</p>
+
+---
 ## 🐍 Contribution Snake
 
 
