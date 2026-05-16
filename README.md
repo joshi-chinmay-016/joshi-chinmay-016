@@ -109,10 +109,8 @@
 <img src="https://github-readme-stats-two-sigma-31.vercel.app/api/top-langs/?username=joshi-chinmay-016&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60" height="160"/> </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joshi-chinmay-016&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true" width="95%"/> 
-</p>
+## Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=joshi-chinmay-016&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" width="95%" /> </p>
 
 ---
 ## 🐍 Contribution Snake
