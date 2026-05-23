@@ -8,14 +8,14 @@
 
 
 ## 🧠 System Profile
-
+```bash
 [STATUS]     Online
 [NAME]       Chinmay Joshi
 [ROLE]       Information Science Student
 [MODE]       Building & Learning
 [LOCATION]   Bengaluru, India
 [MISSION]    Build scalable real-world systems
-
+```
 
 ---
 
