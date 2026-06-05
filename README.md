@@ -30,6 +30,7 @@
 ## 🚀 Featured Projects
 
 ### 🎓 Smart Classroom System
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/joshi-chinmay-016/Edusync)
 
 > A classroom management platform designed to streamline academic resource management and enhance student engagement through interactive learning tools.
 
@@ -48,6 +49,7 @@ Built to improve classroom efficiency by reducing manual resource handling .
 ---
 
 ### 🎮 Multiplayer Tic-Tac-Toe
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/joshi-chinmay-016/tic-tac-toe-multiplayer)
 
 > A real-time multiplayer game that allows two players to compete online using WebSocket-based communication.
 
@@ -65,6 +67,7 @@ Demonstrates real-time communication, event-driven architecture, and client-serv
 ---
 
 ### 🧠 NeuroDebug
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/joshi-chinmay-016/NeuroDebug)
 
 > An AI-powered debugging assistant that helps developers identify errors, understand issues, and receive intelligent code-fix suggestions.
 
