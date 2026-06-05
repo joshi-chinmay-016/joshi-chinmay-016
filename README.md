@@ -27,17 +27,58 @@
 - 🚀 Actively working on real-world projects  
 
 ---
-
 ## 🚀 Featured Projects
 
-🔹 **Smart Classroom System**  
-> Resource management + interactive learning
+### 🎓 Smart Classroom System
 
-🔹 **Multiplayer Tic-Tac-Toe**  
-> Real-time game using WebSockets  
- 
-🔹 **NeuroDebug**  
-> AI-powered debugging assistant for developers  
+> A classroom management platform designed to streamline academic resource management and enhance student engagement through interactive learning tools.
+
+**Tech Stack:** `Python` `Supabase` `Machine-Learning` `Data Visualization`
+
+#### ✨ Features
+- 📚 Centralized resource management for study materials
+- 🎯 Interactive quizzes and learning activities
+- 📊 Student performance tracking
+- 🔍 Easy access to course content and resources
+- 🏗️ Modular architecture for future scalability
+
+#### 🎯 Impact
+Built to improve classroom efficiency by reducing manual resource handling .
+
+---
+
+### 🎮 Multiplayer Tic-Tac-Toe
+
+> A real-time multiplayer game that allows two players to compete online using WebSocket-based communication.
+
+**Tech Stack:** `FastAPI` `WebSockets` `JavaScript` `HTML` `CSS`
+
+#### ✨ Features
+- ⚡ Real-time gameplay synchronization
+- 👥 Two-player online matches
+- 🔄 Instant move updates using WebSockets
+- 🌐 Responsive and interactive user interface
+
+#### 🎯 Impact
+Demonstrates real-time communication, event-driven architecture, and client-server synchronization in modern web applications.
+
+---
+
+### 🧠 NeuroDebug
+
+> An AI-powered debugging assistant that helps developers identify errors, understand issues, and receive intelligent code-fix suggestions.
+
+**Tech Stack:** `Python` `FastAPI` `AI/LLM APIs` `React`
+
+#### ✨ Features
+- 🤖 AI-assisted code analysis
+- 🐞 Automated bug detection
+- 💡 Intelligent debugging suggestions
+- 📝 Error explanation in simple language
+- ⚡ Faster troubleshooting workflow
+
+#### 🎯 Impact
+Reduces debugging time and helps developers understand and resolve coding issues more efficiently using AI-powered insights.
 
 
 ---
