@@ -22,14 +22,14 @@
 ## ⚡ About Me
 
 - 💻 Backend-focused developer with strong DSA foundation  
-- 🔧 Building APIs using FastAPI, Spring Boot, WebSockets  
+- 🔧 Building APIs using FastAPI and, WebSockets  
 - 📈 Interested in scalable systems & distributed architecture  
 - 🚀 Actively working on real-world projects  
 
 ---
 ## 🚀 Featured Projects
 
-### 🎓 Smart Classroom System
+### 🎓 Smart Classroom Booking System
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/joshi-chinmay-016/Edusync)
 
 > A classroom management platform designed to streamline academic resource management and enhance student engagement through interactive learning tools.
@@ -37,12 +37,11 @@
 **Tech Stack:** `Python` `Supabase` `Machine-Learning` `Data Visualization`
 
 #### ✨ Features
-- 📚 Centralized resource management for study materials
-- 🎯 Interactive quizzes and learning activities
-- 📊 Student performance tracking
-- 🔍 Easy access to course content and resources
-- 🏗️ Modular architecture for future scalability
-
+- 📚 AI-driven Resource management
+- 🎯 Robust backend with FastAPI
+- 📊 Smart Booking Engine  
+- 🔍 AI-Powered Analytics  
+- 🏗️ Modern Interactive Dashboard
 #### 🎯 Impact
 Built to improve classroom efficiency by reducing manual resource handling .
 
