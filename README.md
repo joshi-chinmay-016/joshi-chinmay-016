@@ -35,6 +35,26 @@ I'm an Information Science & Engineering student passionate about building scala
 - 📚 Continuously learning Cloud, DevOps, and scalable application architecture
 ---
 ## 🚀 Featured Projects
+### 🤝 SkillSwap Arena
+[![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)]
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/joshi-chinmay-016/SkillWap)
+
+> An AI-powered peer learning and skill exchange platform that connects learners based on skills they can teach and skills they want to learn. The platform leverages intelligent matching, real-time collaboration, and personalized recommendations to create a community-driven learning ecosystem.
+
+**Tech Stack:** `FastAPI` `React` `PostgreSQL` `Redis` `LangChain` `FAISS` `Docker` `Nginx`
+
+#### ✨ Features
+- 🤖 AI-powered skill matching and recommendations
+- 🔍 Semantic search using RAG and vector embeddings
+- 💬 Real-time chat and collaboration with WebSockets
+- 📚 Personalized learning and teaching opportunities
+- 🏆 Gamified reputation and skill verification system
+- 🔐 Secure authentication and role-based access control
+- 📈 Learning analytics and progress tracking
+
+#### 🎯 Impact
+Designed to bridge the gap between learners and mentors by creating a scalable knowledge-sharing ecosystem where users can exchange skills, build portfolios, and grow together through peer-to-peer learning.
+
 
 ### 🎓 Smart Classroom Booking System
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/joshi-chinmay-016/Edusync)
@@ -56,7 +76,7 @@ Built to improve classroom efficiency by reducing manual resource handling .
 
 ### 🎮 Multiplayer Tic-Tac-Toe
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/joshi-chinmay-016/tic-tac-toe-multiplayer)
-
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=render&logoColor=white)](https://chimerical-kashata-c149ce.netlify.app/)
 > A real-time multiplayer game that allows two players to compete online using WebSocket-based communication.
 
 **Tech Stack:** `FastAPI` `WebSockets` `JavaScript` `HTML` `CSS`
@@ -224,10 +244,21 @@ Reduces debugging time and helps developers understand and resolve coding issues
 
 
 ---
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=joshi-chinmay-016&theme=matrix&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+
+
+---
 
 ## 🧠 Developer Mindset
 
-> "I don’t just write code — I build systems that solve real problems."
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=I+don%E2%80%99t+just+write+code+%E2%80%94+I+build+systems+that+solve+real+problems.;Turning+ideas+into+scalable+solutions.;Building+today+for+tomorrow%E2%80%99s+challenges.;Code.+Learn.+Build.+Repeat." />
+</p>
+
 ---
 
 ## 🌐 Connect With Me
@@ -244,5 +275,11 @@ Reduces debugging time and helps developers understand and resolve coding issues
   </a>
 
   
+</p>
+---
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joshi-chinmay-016&label=PROFILE+VIEWS&color=00ff00&style=for-the-badge" alt="Profile Views"/>
 </p>
 ---
