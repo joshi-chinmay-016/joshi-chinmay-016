@@ -21,11 +21,18 @@
 
 ## ⚡ About Me
 
-- 💻 Backend-focused developer with strong DSA foundation  
-- 🔧 Building APIs using FastAPI and, WebSockets  
-- 📈 Interested in scalable systems & distributed architecture  
-- 🚀 Actively working on real-world projects  
+<img align="right" alt="Coding" width="380" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGd3ZzE5cWRkM29sbHk5cHFiczg3eWNkM3puYnA5aTBxczE4NGRjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qiru6DuC7tZuOgjtBF/giphy.gif">
 
+### 👨‍💻 Developer Profile
+
+I'm an Information Science & Engineering student passionate about building scalable software solutions and solving real-world problems through technology.
+
+- 💻 Backend-focused developer with a strong foundation in Data Structures & Algorithms
+- ⚙️ Building scalable APIs using FastAPI, PostgreSQL, Redis, and WebSockets
+- 🏗️ Passionate about Software Engineering, System Design, and Distributed Systems
+- 🤖 Exploring AI-powered applications, RAG architectures, and developer tools
+- 🚀 Currently developing real-world full-stack platforms and educational technology solutions
+- 📚 Continuously learning Cloud, DevOps, and scalable application architecture
 ---
 ## 🚀 Featured Projects
 
