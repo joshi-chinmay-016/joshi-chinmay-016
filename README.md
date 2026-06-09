@@ -33,11 +33,13 @@ I'm an Information Science & Engineering student passionate about building scala
 - 🤖 Exploring AI-powered applications, RAG architectures, and developer tools
 - 🚀 Currently developing real-world full-stack platforms and educational technology solutions
 - 📚 Continuously learning Cloud, DevOps, and scalable application architecture
+
+  <br clear="right"/>
 ---
 ## 🚀 Featured Projects
+
 ### 🤝 SkillSwap Arena
-[![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)]
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/joshi-chinmay-016/SkillWap)
+[![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)](https://github.com/joshi-chinmay-016/SkillSwap)
 
 > An AI-powered peer learning and skill exchange platform that connects learners based on skills they can teach and skills they want to learn. The platform leverages intelligent matching, real-time collaboration, and personalized recommendations to create a community-driven learning ecosystem.
 
@@ -55,6 +57,7 @@ I'm an Information Science & Engineering student passionate about building scala
 #### 🎯 Impact
 Designed to bridge the gap between learners and mentors by creating a scalable knowledge-sharing ecosystem where users can exchange skills, build portfolios, and grow together through peer-to-peer learning.
 
+---
 
 ### 🎓 Smart Classroom Booking System
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/joshi-chinmay-016/Edusync)
@@ -247,7 +250,7 @@ Reduces debugging time and helps developers understand and resolve coding issues
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joshi-chinmay-016&theme=matrix&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=joshi-chinmay-016&theme=matrix&column=4&margin-w=15&margin-h=15" />
 </p>
 
 
@@ -256,7 +259,7 @@ Reduces debugging time and helps developers understand and resolve coding issues
 ## 🧠 Developer Mindset
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=I+don%E2%80%99t+just+write+code+%E2%80%94+I+build+systems+that+solve+real+problems.;Turning+ideas+into+scalable+solutions.;Building+today+for+tomorrow%E2%80%99s+challenges.;Code.+Learn.+Build.+Repeat." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=I+don%E2%80%99t+just+write+code+%E2%80%94+I+build+systems+that+solve+real+problems.;Turning+ideas+into+scalable+solutions.;Building+today+for+tomorrow%E2%80%99s+challenges.;" />
 </p>
 
 ---
@@ -276,10 +279,15 @@ Reduces debugging time and helps developers understand and resolve coding issues
 
   
 </p>
+
 ---
 ## 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joshi-chinmay-016&label=PROFILE+VIEWS&color=00ff00&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=joshi-chinmay-016&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
 </p>
 ---
