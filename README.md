@@ -38,79 +38,65 @@ I'm an Information Science & Engineering student passionate about building scala
 ---
 ## 🚀 Featured Projects
 
-### 🤝 SkillSwap Arena
-[![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)](https://github.com/joshi-chinmay-016/SkillSwap)
-
-> An AI-powered peer learning and skill exchange platform that connects learners based on skills they can teach and skills they want to learn. The platform leverages intelligent matching, real-time collaboration, and personalized recommendations to create a community-driven learning ecosystem.
-
-**Tech Stack:** `FastAPI` `React` `PostgreSQL` `Redis` `LangChain` `FAISS` `Docker` `Nginx`
-
-#### ✨ Features
-- 🤖 AI-powered skill matching and recommendations
-- 🔍 Semantic search using RAG and vector embeddings
-- 💬 Real-time chat and collaboration with WebSockets
-- 📚 Personalized learning and teaching opportunities
-- 🏆 Gamified reputation and skill verification system
-- 🔐 Secure authentication and role-based access control
-- 📈 Learning analytics and progress tracking
+<br>
+### `[01]` &nbsp; 🤝 SkillSwap Arena &nbsp; ![Status](https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-f59e0b?style=flat-square&labelColor=0d1117)
+ 
+> AI-powered peer learning platform. Connects learners via semantic skill matching using RAG + vector embeddings. Real-time collab, gamified reputation, and personalized recommendations.
+ 
+```
+MODULES:
+  ├── 🤖  AI Skill Matching      →  semantic search via FAISS + LangChain
+  ├── 💬  Real-time Chat         →  event-driven WebSocket architecture
+  ├── 🏆  Reputation Engine      →  gamified skill verification system
+  ├── 📊  Learning Analytics     →  personalized progress tracking
+  └── 🔐  Auth & RBAC            →  secure role-based access control
+```
+ 
+**Stack:** `FastAPI` `React` `PostgreSQL` `Redis` `LangChain` `FAISS` `Docker` `Nginx`
 
 #### 🎯 Impact
 Designed to bridge the gap between learners and mentors by creating a scalable knowledge-sharing ecosystem where users can exchange skills, build portfolios, and grow together through peer-to-peer learning.
 
+
+ 
+[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/joshi-chinmay-016/SkillSwap)
+ 
 ---
-
-### 🎓 Smart Classroom Booking System
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/joshi-chinmay-016/Edusync)
-
-> A classroom management platform designed to streamline academic resource management and enhance student engagement through interactive learning tools.
-
-**Tech Stack:** `Python` `Supabase` `Machine-Learning` `Data Visualization`
-
-#### ✨ Features
-- 📚 AI-driven Resource management
-- 🎯 Robust backend with FastAPI
-- 📊 Smart Booking Engine  
-- 🔍 AI-Powered Analytics  
-- 🏗️ Modern Interactive Dashboard
-#### 🎯 Impact
+ 
+### `[02]` &nbsp; 📚 Smart Classroom Booking &nbsp; ![Status](https://img.shields.io/badge/STATUS-BUILT-00FF64?style=flat-square&labelColor=0d1117)
+ 
+> Academic resource management platform with ML-driven booking engine, AI analytics, and interactive dashboard. Cuts manual scheduling overhead entirely.
+ 
+**Stack:** `Python` `Supabase` `Machine Learning` `Data Visualization`
+ #### 🎯 Impact
 Built to improve classroom efficiency by reducing manual resource handling .
 
+[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/joshi-chinmay-016/Edusync)
+ 
 ---
-
-### 🎮 Multiplayer Tic-Tac-Toe
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/joshi-chinmay-016/tic-tac-toe-multiplayer)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=render&logoColor=white)](https://chimerical-kashata-c149ce.netlify.app/)
-> A real-time multiplayer game that allows two players to compete online using WebSocket-based communication.
-
-**Tech Stack:** `FastAPI` `WebSockets` `JavaScript` `HTML` `CSS`
-
-#### ✨ Features
-- ⚡ Real-time gameplay synchronization
-- 👥 Two-player online matches
-- 🔄 Instant move updates using WebSockets
-- 🌐 Responsive and interactive user interface
-
-#### 🎯 Impact
-Demonstrates real-time communication, event-driven architecture, and client-server synchronization in modern web applications.
-
----
-
-### 🧠 NeuroDebug
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/joshi-chinmay-016/NeuroDebug)
-
-> An AI-powered debugging assistant that helps developers identify errors, understand issues, and receive intelligent code-fix suggestions.
-
-**Tech Stack:** `Python` `FastAPI` `AI/LLM APIs` `React`
-
-#### ✨ Features
-- 🤖 AI-assisted code analysis
-- 🐞 Automated bug detection
-- 💡 Intelligent debugging suggestions
-- 📝 Error explanation in simple language
-- ⚡ Faster troubleshooting workflow
-
+ 
+### `[03]` &nbsp; 🧠 NeuroDebug &nbsp; ![Status](https://img.shields.io/badge/STATUS-BUILT-00FF64?style=flat-square&labelColor=0d1117)
+ 
+> AI debugging assistant. Identifies bugs, explains errors in plain language, suggests intelligent fixes. Cuts debugging time with LLM-powered code analysis.
+ 
+**Stack:** `Python` `FastAPI` `LLM APIs` `React`
 #### 🎯 Impact
 Reduces debugging time and helps developers understand and resolve coding issues more efficiently using AI-powered insights.
+ 
+[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/joshi-chinmay-016/NeuroDebug)
+ 
+---
+ 
+### `[04]` &nbsp; 🎮 Multiplayer Tic-Tac-Toe &nbsp; ![Status](https://img.shields.io/badge/STATUS-LIVE-3b82f6?style=flat-square&labelColor=0d1117)
+ 
+> Real-time two-player online game with WebSocket-based event-driven architecture. Demonstrates client-server synchronization and instant state updates.
+ 
+**Stack:** `FastAPI` `WebSockets` `JavaScript` `HTML/CSS`
+#### 🎯 Impact
+Demonstrates real-time communication, event-driven architecture, and client-server synchronization in modern web applications.
+ 
+[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/joshi-chinmay-016/tic-tac-toe-multiplayer)
+[![Live Demo](https://img.shields.io/badge/DEMO-Live-00C853?style=for-the-badge&logo=netlify)](https://chimerical-kashata-c149ce.netlify.app/)
 
 
 ---
@@ -290,4 +276,3 @@ Reduces debugging time and helps developers understand and resolve coding issues
 <p align="center">
   ⭐ Thanks for visiting my profile!
 </p>
----
