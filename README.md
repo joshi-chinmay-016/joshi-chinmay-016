@@ -39,7 +39,7 @@ I'm an Information Science & Engineering student passionate about building scala
 ## 🚀 Featured Projects
 
 <br>
-### `[01]` &nbsp; 🤝 SkillSwap Arena &nbsp; ![Status](https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-f59e0b?style=flat-square&labelColor=0d1117)
+### `[01]` &nbsp; 🤝 SkillSwap Arena &nbsp; ![Status](https://img.shields.io/badge/STATUS-IN20%DEVELOPMENT-f59e0b?style=flat-square&labelColor=0d1117)
  
 > AI-powered peer learning platform. Connects learners via semantic skill matching using RAG + vector embeddings. Real-time collab, gamified reputation, and personalized recommendations.
  
