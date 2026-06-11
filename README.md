@@ -65,7 +65,7 @@ Designed to bridge the gap between learners and mentors by creating a scalable k
  
 ---
  
-### `[02]` &nbsp; 📚 Smart Classroom Booking &nbsp;   ![Status](https://img.shields.io/badge/STATUS-LIVE-3b82f6?style=flat-square&labelColor=0d1117)
+### `[02]` &nbsp; 📚 Smart Classroom Booking &nbsp; &nbsp;  ![Status](https://img.shields.io/badge/STATUS-LIVE-3b82f6?style=flat-square&labelColor=0d1117)
 > Academic resource management platform with ML-driven booking engine, AI analytics, and interactive dashboard. Cuts manual scheduling overhead entirely.
  
 **Stack:** `Python` `Supabase` `Machine Learning` `Data Visualization`
@@ -77,7 +77,7 @@ Built to improve classroom efficiency by reducing manual resource handling .
 
 ---
  
-### `[03]` &nbsp; 🧠 NeuroDebug &nbsp; ![Status](https://img.shields.io/badge/STATUS-BUILT-00FF64?style=flat-square&labelColor=0d1117)
+### `[03]` &nbsp; 🧠 NeuroDebug &nbsp; &nbsp; ![Status](https://img.shields.io/badge/STATUS-LIVE-3b82f6?style=flat-square&labelColor=0d1117)
  
 > AI debugging assistant. Identifies bugs, explains errors in plain language, suggests intelligent fixes. Cuts debugging time with LLM-powered code analysis.
  
@@ -85,8 +85,9 @@ Built to improve classroom efficiency by reducing manual resource handling .
 #### 🎯 Impact
 Reduces debugging time and helps developers understand and resolve coding issues more efficiently using AI-powered insights.
  
-[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/joshi-chinmay-016/NeuroDebug)
- 
+[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/joshi-chinmay-016/NeuroDebug) &nbsp;
+[![Live Demo](https://img.shields.io/badge/DEMO-Live-00C853?style=for-the-badge&logo=netlify)](https://neuro-debug.vercel.app/)
+
 ---
  
 ### `[04]` &nbsp; 🎮 Multiplayer Tic-Tac-Toe &nbsp; ![Status](https://img.shields.io/badge/STATUS-LIVE-3b82f6?style=flat-square&labelColor=0d1117)
