@@ -65,16 +65,16 @@ Designed to bridge the gap between learners and mentors by creating a scalable k
  
 ---
  
-### `[02]` &nbsp; 📚 Smart Classroom Booking &nbsp; ![Status](https://img.shields.io/badge/STATUS-BUILT-00FF64?style=flat-square&labelColor=0d1117)
- 
+### `[02]` &nbsp; 📚 Smart Classroom Booking &nbsp;   ![Status](https://img.shields.io/badge/STATUS-LIVE-3b82f6?style=flat-square&labelColor=0d1117)
 > Academic resource management platform with ML-driven booking engine, AI analytics, and interactive dashboard. Cuts manual scheduling overhead entirely.
  
 **Stack:** `Python` `Supabase` `Machine Learning` `Data Visualization`
  #### 🎯 Impact
 Built to improve classroom efficiency by reducing manual resource handling .
 
-[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/joshi-chinmay-016/Edusync)
- 
+[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/joshi-chinmay-016/Edusync) &nbsp;
+[![Live Demo](https://img.shields.io/badge/DEMO-Live-00C853?style=for-the-badge&logo=netlify)](https://edusync-dl7q.vercel.app/)
+
 ---
  
 ### `[03]` &nbsp; 🧠 NeuroDebug &nbsp; ![Status](https://img.shields.io/badge/STATUS-BUILT-00FF64?style=flat-square&labelColor=0d1117)
@@ -97,7 +97,7 @@ Reduces debugging time and helps developers understand and resolve coding issues
 #### 🎯 Impact
 Demonstrates real-time communication, event-driven architecture, and client-server synchronization in modern web applications.
  
-[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/joshi-chinmay-016/tic-tac-toe-multiplayer)
+[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/joshi-chinmay-016/tic-tac-toe-multiplayer)  &nbsp;
 [![Live Demo](https://img.shields.io/badge/DEMO-Live-00C853?style=for-the-badge&logo=netlify)](https://chimerical-kashata-c149ce.netlify.app/)
 
 
