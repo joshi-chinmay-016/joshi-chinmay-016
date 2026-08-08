@@ -115,54 +115,54 @@ I'm an Information Science & Engineering student passionate about architecting s
 <details open>
 <summary><b>🤖 AI & LLM Engineering</b></summary>
 <p>
-  <img src="https://img.shields.io/badge/LLM_Applications-0D1117?style=for-the-badge&logo=openai&logoColor=00FF00" height="35" style="margin: 5px;" alt="LLMs" />
-  <img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logo=databricks&logoColor=00FF00" height="35" style="margin: 5px;" alt="RAG" />
-  <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=00FF00" height="35" style="margin: 5px;" alt="LangChain" />
-  <img src="https://img.shields.io/badge/FAISS-0D1117?style=for-the-badge&logo=meta&logoColor=00FF00" height="35" style="margin: 5px;" alt="FAISS" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-0D1117?style=for-the-badge&logo=huggingface&logoColor=00FF00" height="35" style="margin: 5px;" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/LLM_Applications-0D1117?style=for-the-badge&logo=openai&logoColor=00FF00" height="50" style="margin: 10px;" alt="LLMs" />
+  <img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logo=databricks&logoColor=00FF00" height="50" style="margin: 10px;" alt="RAG" />
+  <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=00FF00" height="50" style="margin: 10px;" alt="LangChain" />
+  <img src="https://img.shields.io/badge/FAISS-0D1117?style=for-the-badge&logo=meta&logoColor=00FF00" height="50" style="margin: 10px;" alt="FAISS" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-0D1117?style=for-the-badge&logo=huggingface&logoColor=00FF00" height="50" style="margin: 10px;" alt="Prompt Engineering" />
 </p>
 </details>
 
 <details open>
 <summary><b>⚙️ Backend & Systems</b></summary>
 <p>
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF00" height="35" style="margin: 5px;" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00FF00" height="35" style="margin: 5px;" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00FF00" height="35" style="margin: 5px;" alt="Node.js" />
-  <img src="https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&logo=postman&logoColor=00FF00" height="35" style="margin: 5px;" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/WebSockets-0D1117?style=for-the-badge&logo=socketdotio&logoColor=00FF00" height="35" style="margin: 5px;" alt="WebSockets" />
-  <img src="https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=00FF00" height="35" style="margin: 5px;" alt="Redis" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF00" height="50" style="margin: 10px;" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00FF00" height="50" style="margin: 10px;" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00FF00" height="50" style="margin: 10px;" alt="Node.js" />
+  <img src="https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&logo=postman&logoColor=00FF00" height="50" style="margin: 10px;" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/WebSockets-0D1117?style=for-the-badge&logo=socketdotio&logoColor=00FF00" height="50" style="margin: 10px;" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=00FF00" height="50" style="margin: 10px;" alt="Redis" />
 </p>
 </details>
 
 <details open>
 <summary><b>🗄️ Data & Storage</b></summary>
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00FF00" height="35" style="margin: 5px;" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00FF00" height="35" style="margin: 5px;" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00FF00" height="35" style="margin: 5px;" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00FF00" height="50" style="margin: 10px;" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00FF00" height="50" style="margin: 10px;" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00FF00" height="50" style="margin: 10px;" alt="MySQL" />
 </p>
 </details>
 
 <details open>
 <summary><b>🎨 Frontend & Interactive</b></summary>
 <p>
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00FF00" height="35" style="margin: 5px;" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=00FF00" height="35" style="margin: 5px;" alt="Next.js" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF00" height="35" style="margin: 5px;" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/WebGL-0D1117?style=for-the-badge&logo=webgl&logoColor=00FF00" height="35" style="margin: 5px;" alt="WebGL" />
-  <img src="https://img.shields.io/badge/GSAP-0D1117?style=for-the-badge&logo=greensock&logoColor=00FF00" height="35" style="margin: 5px;" alt="GSAP" />
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00FF00" height="50" style="margin: 10px;" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=00FF00" height="50" style="margin: 10px;" alt="Next.js" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF00" height="50" style="margin: 10px;" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/WebGL-0D1117?style=for-the-badge&logo=webgl&logoColor=00FF00" height="50" style="margin: 10px;" alt="WebGL" />
+  <img src="https://img.shields.io/badge/GSAP-0D1117?style=for-the-badge&logo=greensock&logoColor=00FF00" height="50" style="margin: 10px;" alt="GSAP" />
 </p>
 </details>
 
 <details open>
 <summary><b>🚀 DevOps & Deployment</b></summary>
 <p>
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00FF00" height="35" style="margin: 5px;" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF00" height="35" style="margin: 5px;" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF00" height="35" style="margin: 5px;" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF00" height="35" style="margin: 5px;" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render&logoColor=00FF00" height="35" style="margin: 5px;" alt="Render" />
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00FF00" height="50" style="margin: 10px;" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF00" height="50" style="margin: 10px;" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF00" height="50" style="margin: 10px;" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF00" height="50" style="margin: 10px;" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render&logoColor=00FF00" height="50" style="margin: 10px;" alt="Render" />
 </p>
 </details>
 
