@@ -65,7 +65,20 @@ I'm an Information Science & Engineering student passionate about architecting s
  
 ---
  
-### `[02]` &nbsp; 📚 Smart Classroom Booking &nbsp; &nbsp;  ![Status](https://img.shields.io/badge/STATUS-LIVE-3b82f6?style=flat-square&labelColor=0d1117)
+### `[02]` &nbsp; 🧠 NeuroDebug &nbsp; &nbsp; ![Status](https://img.shields.io/badge/STATUS-LIVE-3b82f6?style=flat-square&labelColor=0d1117)
+
+> **AI debugging assistant.** Identifies bugs, explains errors in plain language, and suggests intelligent fixes, cutting debugging time with LLM-powered code analysis.
+
+- **🏗️ Architecture**: Stateless REST API layer integrating advanced LLM APIs for automated code semantic analysis and rapid remediation generation.
+- **🛠️ Tech Stack**: `Python` `FastAPI` `LLM APIs` `React`
+- **🎯 Impact**: Greatly reduces debugging time, enabling developers to understand and resolve complex coding issues more efficiently using AI-powered insights.
+
+[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/joshi-chinmay-016/NeuroDebug) &nbsp;
+[![Live Demo](https://img.shields.io/badge/DEMO-Live-00C853?style=for-the-badge&logo=netlify)](https://neuro-debug.vercel.app/)
+
+---
+
+### `[03]` &nbsp; 📚 Smart Classroom Booking &nbsp; &nbsp;  ![Status](https://img.shields.io/badge/STATUS-LIVE-3b82f6?style=flat-square&labelColor=0d1117)
 
 > **Academic resource management platform.** ML-driven booking engine, AI analytics, and interactive dashboard that cuts manual scheduling overhead entirely.
 
@@ -75,19 +88,6 @@ I'm an Information Science & Engineering student passionate about architecting s
 
 [![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/joshi-chinmay-016/Edusync) &nbsp;
 [![Live Demo](https://img.shields.io/badge/DEMO-Live-00C853?style=for-the-badge&logo=netlify)](https://edusync-dl7q.vercel.app/)
-
----
- 
-### `[03]` &nbsp; 🧠 NeuroDebug &nbsp; &nbsp; ![Status](https://img.shields.io/badge/STATUS-LIVE-3b82f6?style=flat-square&labelColor=0d1117)
- 
-> **AI debugging assistant.** Identifies bugs, explains errors in plain language, and suggests intelligent fixes, cutting debugging time with LLM-powered code analysis.
- 
-- **🏗️ Architecture**: Stateless REST API layer integrating advanced LLM APIs for automated code semantic analysis and rapid remediation generation.
-- **🛠️ Tech Stack**: `Python` `FastAPI` `LLM APIs` `React`
-- **🎯 Impact**: Greatly reduces debugging time, enabling developers to understand and resolve complex coding issues more efficiently using AI-powered insights.
-
-[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/joshi-chinmay-016/NeuroDebug) &nbsp;
-[![Live Demo](https://img.shields.io/badge/DEMO-Live-00C853?style=for-the-badge&logo=netlify)](https://neuro-debug.vercel.app/)
 
 ---
  
