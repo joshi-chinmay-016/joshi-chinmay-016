@@ -78,7 +78,7 @@ I'm an Information Science & Engineering student passionate about architecting s
 
 ---
 
-### `[03]` &nbsp; 📚 Smart Classroom Booking &nbsp; &nbsp;  ![Status](https://img.shields.io/badge/STATUS-LIVE-3b82f6?style=flat-square&labelColor=0d1117)
+### `[03]` &nbsp; 📚 Edusync &nbsp; &nbsp;  ![Status](https://img.shields.io/badge/STATUS-LIVE-3b82f6?style=flat-square&labelColor=0d1117)
 
 > **Academic resource management platform.** ML-driven booking engine, AI analytics, and interactive dashboard that cuts manual scheduling overhead entirely.
 
@@ -114,56 +114,56 @@ I'm an Information Science & Engineering student passionate about architecting s
 
 <details open>
 <summary><b>🤖 AI & LLM Engineering</b></summary>
-<br>
-
-![LLMs](https://img.shields.io/badge/LLM_Applications-0D1117?style=for-the-badge&logo=openai&logoColor=00FF00)
-![RAG](https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logo=databricks&logoColor=00FF00)
-![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=00FF00)
-![FAISS](https://img.shields.io/badge/FAISS-0D1117?style=for-the-badge&logo=meta&logoColor=00FF00)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0D1117?style=for-the-badge&logo=terminal&logoColor=00FF00)
+<p>
+  <img src="https://img.shields.io/badge/LLM_Applications-0D1117?style=for-the-badge&logo=openai&logoColor=00FF00" height="35" style="margin: 5px;" alt="LLMs" />
+  <img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logo=databricks&logoColor=00FF00" height="35" style="margin: 5px;" alt="RAG" />
+  <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=00FF00" height="35" style="margin: 5px;" alt="LangChain" />
+  <img src="https://img.shields.io/badge/FAISS-0D1117?style=for-the-badge&logo=meta&logoColor=00FF00" height="35" style="margin: 5px;" alt="FAISS" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-0D1117?style=for-the-badge&logo=huggingface&logoColor=00FF00" height="35" style="margin: 5px;" alt="Prompt Engineering" />
+</p>
 </details>
 
 <details open>
 <summary><b>⚙️ Backend & Systems</b></summary>
-<br>
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF00)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00FF00)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00FF00)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&logo=json&logoColor=00FF00)
-![WebSockets](https://img.shields.io/badge/WebSockets-0D1117?style=for-the-badge&logo=socketdotio&logoColor=00FF00)
-![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=00FF00)
+<p>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF00" height="35" style="margin: 5px;" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00FF00" height="35" style="margin: 5px;" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00FF00" height="35" style="margin: 5px;" alt="Node.js" />
+  <img src="https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&logo=postman&logoColor=00FF00" height="35" style="margin: 5px;" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/WebSockets-0D1117?style=for-the-badge&logo=socketdotio&logoColor=00FF00" height="35" style="margin: 5px;" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=00FF00" height="35" style="margin: 5px;" alt="Redis" />
+</p>
 </details>
 
 <details open>
 <summary><b>🗄️ Data & Storage</b></summary>
-<br>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00FF00)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00FF00)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00FF00)
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00FF00" height="35" style="margin: 5px;" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00FF00" height="35" style="margin: 5px;" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00FF00" height="35" style="margin: 5px;" alt="MySQL" />
+</p>
 </details>
 
 <details open>
 <summary><b>🎨 Frontend & Interactive</b></summary>
-<br>
-
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00FF00)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=00FF00)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF00)
-![WebGL](https://img.shields.io/badge/WebGL-0D1117?style=for-the-badge&logo=webgl&logoColor=00FF00)
-![GSAP](https://img.shields.io/badge/GSAP-0D1117?style=for-the-badge&logo=greensock&logoColor=00FF00)
+<p>
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00FF00" height="35" style="margin: 5px;" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=00FF00" height="35" style="margin: 5px;" alt="Next.js" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF00" height="35" style="margin: 5px;" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/WebGL-0D1117?style=for-the-badge&logo=webgl&logoColor=00FF00" height="35" style="margin: 5px;" alt="WebGL" />
+  <img src="https://img.shields.io/badge/GSAP-0D1117?style=for-the-badge&logo=greensock&logoColor=00FF00" height="35" style="margin: 5px;" alt="GSAP" />
+</p>
 </details>
 
 <details open>
 <summary><b>🚀 DevOps & Deployment</b></summary>
-<br>
-
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00FF00)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF00)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF00)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF00)
-![Render](https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render&logoColor=00FF00)
+<p>
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00FF00" height="35" style="margin: 5px;" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF00" height="35" style="margin: 5px;" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF00" height="35" style="margin: 5px;" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF00" height="35" style="margin: 5px;" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render&logoColor=00FF00" height="35" style="margin: 5px;" alt="Render" />
+</p>
 </details>
 
 ---
@@ -175,9 +175,9 @@ I'm an Information Science & Engineering student passionate about architecting s
 <br>
 <p align="center"> 
 <img src="https://streak-stats.demolab.com?user=joshi-chinmay-016&theme=tokyonight&hide_border=true&cache_seconds=60" height="160"/> 
-</p> 
-<p align="center"> 
-<img src="https://github-readme-stats-two-sigma-31.vercel.app/api/top-langs/?username=joshi-chinmay-016&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60" height="160"/> </p>
+&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats-two-sigma-31.vercel.app/api/top-langs/?username=joshi-chinmay-016&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60" height="160"/>
+</p>
 </details>
 
 <details open>
