@@ -17,17 +17,16 @@
 
 ---
 
-## 🧠 System Profile
-
+🧠 System Profile
 ```bash
-[STATUS]     Online
-[NAME]       Chinmay Joshi
-[ROLE]       Information Science Student
-[MODE]       Building & Learning
-[LOCATION]   Bengaluru, India
-[MISSION]    Build scalable real-world systems
-```
 
+[STATUS]         ● Available
+[ROLE]           Full Stack AI Developer 
+[FOCUS]          AI Engineering · Backend Systems
+[BUILDING]       AI-powered applications & scalable APIs
+[WORKING WITH]   LLMs · RAG · FAISS · FastAPI · Redis
+[INTERESTS]      System Design · Real-time Systems · Developer Tools
+```
 > **Full-Stack Software Engineer** specializing in designing and scaling backend systems with **FastAPI** and integrating **AI & Machine Learning** (RAG, LLMs) into real-world applications. Passionate about system design, distributed systems, and performance optimization.
 
 ---
@@ -77,7 +76,7 @@ I'm an Information Science & Engineering student passionate about architecting s
 
 ---
  
-### `[03]` &nbsp; 📚 EduSync &nbsp; &nbsp;  ![Status](https://img.shields.io/badge/STATUS-LIVE-3b82f6?style=flat-square&labelColor=0d1117)
+### `[03]` &nbsp; 📚 Edusync &nbsp; &nbsp;  ![Status](https://img.shields.io/badge/STATUS-LIVE-3b82f6?style=flat-square&labelColor=0d1117)
 
 > **Academic resource management platform.** ML-driven booking engine, AI analytics, and interactive dashboard that cuts manual scheduling overhead entirely.
 
@@ -103,67 +102,57 @@ I'm an Information Science & Engineering student passionate about architecting s
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
+
+<h3 align="center">🤖 AI & LLM Engineering</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,docker,mysql,git,github,react,fastapi&theme=dark" />
+  <img height="42" src="https://img.shields.io/badge/LLM%20APPLICATIONS-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
+ <img height="42" src="https://img.shields.io/badge/RAG-00B8D4?style=for-the-badge&logo=databricks&logoColor=white" />
+<img height="42" src="https://img.shields.io/badge/LANGCHAIN-00C853?style=for-the-badge&logo=langchain&logoColor=white" />
+<img height="42" src="https://img.shields.io/badge/FAISS-8B5CF6?style=for-the-badge&logoColor=white" />
 </p>
 
-<br>
+<h3 align="center">⚙️ Backend & Systems</h3>
 
-<details open>
-<summary><b>🤖 AI & LLM Engineering</b></summary>
-<br>
-  
-![RAG](https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logo=databricks&logoColor=00FF00)
-![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=00FF00)
-![FAISS](https://img.shields.io/badge/FAISS-0D1117?style=for-the-badge&logo=meta&logoColor=00FF00)
-![LLMs](https://img.shields.io/badge/LLM_Applications-0D1117?style=for-the-badge&logo=openai&logoColor=00FF00)
+<p align="center">
+  <img height="42" src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img height="42" src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img height="42" src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img height="42" src="https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge&logoColor=white" />
+  <img height="42" src="https://img.shields.io/badge/WEBSOCKETS-7C3AED?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img height="42" src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
 
-</details>
+<h3 align="center">🗄️ Data & Storage</h3>
 
-<details open>
-<summary><b>⚙️ Backend & Systems</b></summary>
-<br>
+<p align="center">
+  <img height="42" src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img height="42" src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img height="42" src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img height="42" src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF00)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00FF00)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00FF00)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&logo=json&logoColor=00FF00)
-![WebSockets](https://img.shields.io/badge/WebSockets-0D1117?style=for-the-badge&logo=socketdotio&logoColor=00FF00)
-![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=00FF00)
-</details>
+<h3 align="center">🎨 Frontend & Interactive</h3>
 
-<details open>
-<summary><b>🗄️ Data & Storage</b></summary>
-<br>
+<p align="center">
+  <img height="42" src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img height="42" src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img height="42" src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img height="42" src="https://img.shields.io/badge/WEBGL-9900FF?style=for-the-badge&logo=webgl&logoColor=white" />
+  <img height="42" src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+</p>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00FF00)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00FF00)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00FF00)
-</details>
+<h3 align="center">🚀 DevOps & Deployment</h3>
 
-<details open>
-<summary><b>🎨 Frontend & Interactive</b></summary>
-<br>
-
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00FF00)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=00FF00)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF00)
-![WebGL](https://img.shields.io/badge/WebGL-0D1117?style=for-the-badge&logo=webgl&logoColor=00FF00)
-![GSAP](https://img.shields.io/badge/GSAP-0D1117?style=for-the-badge&logo=greensock&logoColor=00FF00)
-</details>
-
-<details open>
-<summary><b>🚀 DevOps & Deployment</b></summary>
-<br>
-
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00FF00)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF00)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF00)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF00)
-![Render](https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render&logoColor=00FF00)
-</details>
+<p align="center">
+  <img height="42" src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img height="42" src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img height="42" src="https://img.shields.io/badge/CI%2FCD-F97316?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img height="42" src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img height="42" src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img height="42" src="https://img.shields.io/badge/RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+</p>
 
 ---
 
@@ -174,9 +163,9 @@ I'm an Information Science & Engineering student passionate about architecting s
 <br>
 <p align="center"> 
 <img src="https://streak-stats.demolab.com?user=joshi-chinmay-016&theme=tokyonight&hide_border=true&cache_seconds=60" height="160"/> 
-</p> 
-<p align="center"> 
-<img src="https://github-readme-stats-two-sigma-31.vercel.app/api/top-langs/?username=joshi-chinmay-016&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60" height="160"/> </p>
+&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats-two-sigma-31.vercel.app/api/top-langs/?username=joshi-chinmay-016&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60" height="160"/> 
+</p>
 </details>
 
 <details open>
@@ -188,8 +177,6 @@ I'm an Information Science & Engineering student passionate about architecting s
   <img src="https://raw.githubusercontent.com/joshi-chinmay-016/joshi-chinmay-016/output/snake-dark.svg" />
 </p>
 </details>
-
-
 ---
 
 ## 🧠 Developer Mindset
