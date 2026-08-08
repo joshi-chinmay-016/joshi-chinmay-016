@@ -1,4 +1,9 @@
-<h1 align="center">⚙️ SYSTEM INITIALIZING...</h1>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Hey%2C%20I'm%20Chinmay%20%F0%9F%91%8B&fontSize=42&fontColor=E6EDF3&animation=fadeIn&fontAlignY=55"
+    width="100%"
+  />
+</p>
 <p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=>>+Booting+Chinmay.exe...;>>+FullStack+Developer+%7C+FastAPI;>>+AI+%26+ML+Explorer;>>+Building+Scalable+Systems+🚀" /> 
 </p>
@@ -33,17 +38,44 @@
 
 ## ⚡ About Me
 
-<img align="right" alt="Coding" width="380" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGd3ZzE5cWRkM29sbHk5cHFiczg3eWNkM3puYnA5aTBxczE4NGRjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qiru6DuC7tZuOgjtBF/giphy.gif">
+<table>
+<tr>
 
-### 👨‍💻 Developer Profile
+<td width="55%" valign="top">
 
-I'm an Information Science & Engineering student passionate about architecting scalable software solutions and resolving complex, real-world problems through technology.
+I'm an Information Science & Engineering student passionate about
+architecting scalable software solutions and resolving complex, real-world
+problems through technology.
 
-- 💻 **Architecting robust backend systems** driven by a strong foundation in Data Structures & Algorithms.
-- ⚙️ **Engineering high-performance APIs** utilizing FastAPI, PostgreSQL, Redis, and WebSocket-driven architectures.
-- 🏗️ **Designing distributed systems** with a deep focus on Software Engineering best practices and System Design.
-- 🤖 **Pioneering AI integrations**, leveraging RAG architectures and LLMs to build next-generation developer tools.
-- 📚 **Expanding capabilities** across Cloud infrastructure, DevOps pipelines, and enterprise-grade scalability.
+- 💻 **Architecting robust backend systems** driven by a strong
+  foundation in Data Structures & Algorithms.
+- ⚙️ **Engineering high-performance APIs** utilizing FastAPI,
+  PostgreSQL, Redis, and WebSocket-driven architectures.
+- 🏗️ **Designing distributed systems** with a deep focus on Software
+  Engineering best practices and System Design.
+- 🤖 **Pioneering AI integrations**, leveraging RAG architectures and
+  LLMs to build next-generation developer tools.
+- 🌐 **Expanding capabilities** across Cloud infrastructure, DevOps
+  pipelines, and enterprise-grade scalability.
+- 🚀 **Deploying real-world full-stack platforms** that modernize educational technology and peer-learning ecosystems.
+
+
+</td>
+
+<td width="45%" align="center" valign="middle">
+
+<img
+  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGd3ZzE5cWRkM29sbHk5cHFiczg3eWNkM3puYnA5aTBxczE4NGRjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qiru6DuC7tZuOgjtBF/giphy.gif"
+  alt="Coding"
+  width="100%"
+  style="max-width: 380px;"
+/>
+
+</td>
+
+</tr>
+</table>
+
 
 ---
 
@@ -76,7 +108,7 @@ I'm an Information Science & Engineering student passionate about architecting s
 
 ---
  
-### `[03]` &nbsp; 📚 Edusync &nbsp; &nbsp;  ![Status](https://img.shields.io/badge/STATUS-LIVE-3b82f6?style=flat-square&labelColor=0d1117)
+### `[03]` &nbsp; 📚 EduSync &nbsp; &nbsp;  ![Status](https://img.shields.io/badge/STATUS-LIVE-3b82f6?style=flat-square&labelColor=0d1117)
 
 > **Academic resource management platform.** ML-driven booking engine, AI analytics, and interactive dashboard that cuts manual scheduling overhead entirely.
 
@@ -86,19 +118,6 @@ I'm an Information Science & Engineering student passionate about architecting s
 
 [![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/joshi-chinmay-016/Edusync) &nbsp;
 [![Live Demo](https://img.shields.io/badge/DEMO-Live-00C853?style=for-the-badge&logo=netlify)](https://edusync-dl7q.vercel.app/)
-
----
- 
-### `[04]` &nbsp; 🎮 Multiplayer Tic-Tac-Toe &nbsp; ![Status](https://img.shields.io/badge/STATUS-LIVE-3b82f6?style=flat-square&labelColor=0d1117)
- 
-> **Real-time two-player online game.** Demonstrates client-server synchronization and instant state updates without long-polling.
-
-- **🏗️ Architecture**: Highly concurrent event-driven architecture using WebSockets for sub-millisecond client-server state synchronization.
-- **🛠️ Tech Stack**: `FastAPI` `WebSockets` `JavaScript` `HTML/CSS`
-- **🎯 Impact**: Serves as a foundational blueprint demonstrating robust real-time communication patterns essential for modern web applications.
- 
-[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/joshi-chinmay-016/tic-tac-toe-multiplayer)  &nbsp;
-[![Live Demo](https://img.shields.io/badge/DEMO-Live-00C853?style=for-the-badge&logo=netlify)](https://chimerical-kashata-c149ce.netlify.app/)
 
 ---
 
@@ -177,6 +196,7 @@ I'm an Information Science & Engineering student passionate about architecting s
   <img src="https://raw.githubusercontent.com/joshi-chinmay-016/joshi-chinmay-016/output/snake-dark.svg" />
 </p>
 </details>
+
 ---
 
 ## 🧠 Developer Mindset
