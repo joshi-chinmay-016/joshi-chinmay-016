@@ -91,7 +91,7 @@ and collaborations** on interesting technical projects.
 | Project | What it does | Tech | Live |
 |:--|:--|:--|:--|
 | [**SkillSwap Arena**](https://github.com/joshi-chinmay-016/SkillSwap) | AI-powered peer-learning platform featuring a **RAG-powered AI Mentor**, semantic skill matching, personalized recommendations, collaborative learning, and gamified progression. | FastAPI · React · PostgreSQL · FAISS · LangChain · WebSockets | [Live](https://skillswap-arena.vercel.app) |
-| [**RecoverX**](https://github.com/joshi-chinmay-016/RecoverX) | AI-assisted payment recovery platform that tracks transaction states, automates recovery workflows, and uses intelligent decision-making to improve failed-payment recovery. | TypeScript · React · TanStack Query · FastAPI · PostgreSQL · Redis | [Live](https://recover-x-sage-vercel.app) |
+| [**RecoverX**](https://github.com/joshi-chinmay-016/RecoverX) | AI-assisted payment recovery platform that tracks transaction states, automates recovery workflows, and uses intelligent decision-making to improve failed-payment recovery. | TypeScript · React · TanStack Query · FastAPI · PostgreSQL · Redis | [Live](https://recover-x-sage.vercel.app) |
 | [**NeuroDebug**](https://github.com/joshi-chinmay-016/NeuroDebug) | AI debugging assistant that analyzes code and error context, identifies likely causes, explains problems, and generates actionable fixes. | Python · FastAPI · React · LLM APIs | [Live](https://neuro-debug.vercel.app) |
 | [**EduSync**](https://github.com/joshi-chinmay-016/Edusync) | Academic platform for managing educational resources and workflows with interactive dashboards and AI-powered functionality. | Next.js · TypeScript · FastAPI · PostgreSQL · AI/LLM | [Live](https://edusync-dl7q.vercel.app) |
 ---
