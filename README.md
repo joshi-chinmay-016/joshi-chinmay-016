@@ -5,7 +5,7 @@
   />
 </p>
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=>>+Booting+Chinmay.exe...;>>+FullStack+Developer+%7C+FastAPI;>>+AI+%26+ML+Explorer;>>+Building+Scalable+Systems+🚀" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=>>+Booting+Chinmay.exe...;>>+Full-Stack+Developer+%7C+FastAPI;>>+AI+%26+ML+Explorer;>>+Building+Scalable+Systems+🚀" /> 
 </p>
 
 <p align="center">
@@ -26,13 +26,13 @@
 ```bash
 
 [STATUS]         ● Available
-[ROLE]           Full Stack AI Developer 
+[ROLE]           Full-Stack AI Developer 
 [FOCUS]          AI Engineering · Backend Systems
 [BUILDING]       AI-powered applications & scalable APIs
 [WORKING WITH]   LLMs · RAG · FAISS · FastAPI · Redis
 [INTERESTS]      System Design · Real-time Systems · Developer Tools
+[OPEN TO]        Internships · Open Source · Collaborations
 ```
-> **Full-Stack Software Engineer** specializing in designing and scaling backend systems with **FastAPI** and integrating **AI & Machine Learning** (RAG, LLMs) into real-world applications. Passionate about system design, distributed systems, and performance optimization.
 
 ---
 
@@ -43,22 +43,30 @@
 
 <td width="55%" valign="top">
 
-I'm an Information Science & Engineering student passionate about
-architecting scalable software solutions and resolving complex, real-world
-problems through technology.
+I'm an **Information Science & Engineering student** focused on
+**backend engineering, AI systems, and scalable full-stack applications**.
+I enjoy turning complex, real-world problems into reliable software.
 
-- 💻 **Architecting robust backend systems** driven by a strong
-  foundation in Data Structures & Algorithms.
-- ⚙️ **Engineering high-performance APIs** utilizing FastAPI,
-  PostgreSQL, Redis, and WebSocket-driven architectures.
-- 🏗️ **Designing distributed systems** with a deep focus on Software
-  Engineering best practices and System Design.
-- 🤖 **Pioneering AI integrations**, leveraging RAG architectures and
-  LLMs to build next-generation developer tools.
-- 🌐 **Expanding capabilities** across Cloud infrastructure, DevOps
-  pipelines, and enterprise-grade scalability.
-- 🚀 **Deploying real-world full-stack platforms** that modernize educational technology and peer-learning ecosystems.
+### What I Build
 
+- 💻 **Backend Engineering** — Building APIs and services with
+  FastAPI, PostgreSQL, Redis, and WebSockets.
+
+- 🤖 **AI Engineering** — Building practical AI applications using
+  LLMs, RAG, vector search, and intelligent automation.
+
+- 🏗️ **Systems & Architecture** — Designing modular, scalable systems
+  with a focus on clean architecture and software engineering principles.
+
+- 🚀 **Full-Stack Products** — Taking applications from architecture
+  and development through deployment.
+
+### Currently Exploring
+
+**System Design · Distributed Systems · Cloud & DevOps · AI Engineering**
+
+I'm **open to software engineering internships, open-source contributions,
+and collaborations** on interesting technical projects.
 
 </td>
 
@@ -68,7 +76,7 @@ problems through technology.
   src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGd3ZzE5cWRkM29sbHk5cHFiczg3eWNkM3puYnA5aTBxczE4NGRjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qiru6DuC7tZuOgjtBF/giphy.gif"
   alt="Coding"
   width="100%"
-  style="max-width: 380px;"
+  style="max-width: 340px;"
 />
 
 </td>
@@ -76,49 +84,16 @@ problems through technology.
 </tr>
 </table>
 
-
 ---
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
-<br>
-
-### `[01]` &nbsp; 🤝 SkillSwap Arena &nbsp; ![Status](https://img.shields.io/badge/STATUS-DEVELOPING-f59e0b?style=flat-square&labelColor=0d1117)
-
-> **AI-powered peer learning platform.** Connects learners via semantic skill matching using RAG + vector embeddings. Features real-time collab, gamified reputation, and personalized recommendations.
-
-- **🏗️ Architecture**: Modular monolithic backend deploying semantic search via FAISS + LangChain, event-driven WebSocket architecture for real-time chat, and a custom gamified reputation engine.
-- **🛠️ Tech Stack**: `FastAPI` `React` `PostgreSQL` `Redis` `LangChain` `FAISS` `Docker` `Nginx`
-- **🎯 Impact**: Designed to bridge the gap between learners and mentors, creating a highly scalable knowledge-sharing ecosystem for peer-to-peer growth.
-
-[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/joshi-chinmay-016/SkillSwap)
- 
----
- 
-### `[02]` &nbsp; 🧠 NeuroDebug &nbsp; &nbsp; ![Status](https://img.shields.io/badge/STATUS-LIVE-3b82f6?style=flat-square&labelColor=0d1117)
- 
-> **AI debugging assistant.** Identifies bugs, explains errors in plain language, and suggests intelligent fixes, cutting debugging time with LLM-powered code analysis.
- 
-- **🏗️ Architecture**: Stateless REST API layer integrating advanced LLM APIs for automated code semantic analysis and rapid remediation generation.
-- **🛠️ Tech Stack**: `Python` `FastAPI` `LLM APIs` `React`
-- **🎯 Impact**: Greatly reduces debugging time, enabling developers to understand and resolve complex coding issues more efficiently using AI-powered insights.
-
-[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/joshi-chinmay-016/NeuroDebug) &nbsp;
-[![Live Demo](https://img.shields.io/badge/DEMO-Live-00C853?style=for-the-badge&logo=netlify)](https://neuro-debug.vercel.app/)
-
----
- 
-### `[03]` &nbsp; 📚 EduSync &nbsp; &nbsp;  ![Status](https://img.shields.io/badge/STATUS-LIVE-3b82f6?style=flat-square&labelColor=0d1117)
-
-> **Academic resource management platform.** ML-driven booking engine, AI analytics, and interactive dashboard that cuts manual scheduling overhead entirely.
-
-- **🏗️ Architecture**: Cloud-native data pipelining with predictive ML models for dynamic resource allocation and visual data dashboards.
-- **🛠️ Tech Stack**: `Python` `Supabase` `Machine Learning` `Data Visualization`
-- **🎯 Impact**: Built to significantly improve classroom efficiency by eradicating manual resource handling bottlenecks in academic environments.
-
-[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/joshi-chinmay-016/Edusync) &nbsp;
-[![Live Demo](https://img.shields.io/badge/DEMO-Live-00C853?style=for-the-badge&logo=netlify)](https://edusync-dl7q.vercel.app/)
-
+| Project | What it does | Tech | Live |
+|:--|:--|:--|:--|
+| [**SkillSwap Arena**](https://github.com/joshi-chinmay-016/SkillSwap) | AI-powered peer-learning platform featuring a **RAG-powered AI Mentor**, semantic skill matching, personalized recommendations, collaborative learning, and gamified progression. | FastAPI · React · PostgreSQL · FAISS · LangChain · WebSockets | [Live](https://skillswap-arena.vercel.app) |
+| [**RecoverX**](https://github.com/joshi-chinmay-016/RecoverX) | AI-assisted payment recovery platform that tracks transaction states, automates recovery workflows, and uses intelligent decision-making to improve failed-payment recovery. | TypeScript · React · TanStack Query · FastAPI · PostgreSQL · Redis | [Live](https://recoverx-sage-vercel.app) |
+| [**NeuroDebug**](https://github.com/joshi-chinmay-016/NeuroDebug) | AI debugging assistant that analyzes code and error context, identifies likely causes, explains problems, and generates actionable fixes. | Python · FastAPI · React · LLM APIs | [Live](https://neuro-debug.vercel.app) |
+| [**EduSync**](https://github.com/joshi-chinmay-016/Edusync) | Academic platform for managing educational resources and workflows with interactive dashboards and AI-powered functionality. | Next.js · TypeScript · FastAPI · PostgreSQL · AI/LLM | [Live](https://edusync-dl7q.vercel.app) |
 ---
 
 ## 🚀 Tech Stack
